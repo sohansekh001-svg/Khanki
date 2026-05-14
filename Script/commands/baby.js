@@ -150,7 +150,6 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
  const simsim = await getMainAPI();
 
 const greetings = [
-         [
 "বেশি bot Bot করলে leave নিবো কিন্তু😒😒",
 "শুনবো না😼 তুমি আমার বস সোহান কে প্রেম করাই দাও নাই🥺পচা তুমি🥺",
 "আমি আবাল দের সাথে কথা বলি না,ok😒",
@@ -252,7 +251,7 @@ const greetings = [
 "-🫵তোমারে প্রচুর ভাল্লাগে-😽-সময় মতো প্রপোজ করমু বুঝছো-🔨😼-ছিট খালি রাইখো- 🥱🐸🥵",
 "-আজ থেকে আর কাউকে পাত্তা দিমু না -!😏-কারণ আমি ফর্সা হওয়ার ক্রিম কিনছি -!🙂🐸"
 "সোহান  আমর বস 🫦😍 https://www.facebook.com/profile.php?id=61582372804210"
-  "Sohan Amar Bos Love You Good Boy 🥵🌺 https://www.facebook.com/profile.php?id=61582372804210
+  "Sohan Amar Bos Love You Good Boy 🥵🌺 https://www.facebook.com/profile.php?id=61582372804210"
 ]
 
  if (
