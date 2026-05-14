@@ -6,7 +6,7 @@ module.exports.config = {
     name: 'autosent',
     version: '10.0.1',
     hasPermssion: 0,
-    credits: 'Shahadat Islam',
+    credits: 'Sohqn Ahmed',
     description: 'Automatically sends messages at scheduled times (India Time)',
     commandCategory: 'group messenger',
     usages: '[]',
